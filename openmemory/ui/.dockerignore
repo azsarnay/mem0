@@ -1,7 +1,3 @@
-# Ignore all .env files
-**/.env
-
-
 # Ignore all database files
 **/*.db
 **/*.sqlite
@@ -20,4 +16,4 @@
 # Ignore Docker runtime files
 **/.dockerignore
 **/Dockerfile
-**/docker-compose*.yml 
+**/docker-compose*.yml
